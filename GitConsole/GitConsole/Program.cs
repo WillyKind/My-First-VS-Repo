@@ -10,7 +10,7 @@ namespace GitConsole
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Wow a console");
         }
     }
 }
